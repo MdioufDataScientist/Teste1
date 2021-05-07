@@ -64,4 +64,6 @@ void decomposition(float A[20][20],int taille)
 
 }
 
+/*programme de resolution d'une équation complexe*/
+
 
